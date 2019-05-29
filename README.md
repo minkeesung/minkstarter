@@ -16,3 +16,6 @@ In order to have the frontend portion of the application running follow these st
 3. Npm start
 
 Minkstarter was modeled after Kickstarter application. It is a single-page web application that allows users to create and fund projects. It uses Ruby on Rails, ES6, React and Redux.
+
+![Minkstarter carousel](https://github.com/minkeesung/minkstarter/blob/master/docs/images/carousel.png)
+![Minkstarter project index](https://github.com/minkeesung/minkstarter/blob/master/docs/images/project_index.png)
