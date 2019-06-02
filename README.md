@@ -24,4 +24,4 @@ Minkstarter was modeled after Kickstarter application. It is a single-page web a
 
 Users can use a live search based on matching titles, descriptions, details or projects
 
-![gif](http://recordit.co/5SjTh1JFO1)
+![gif](http://g.recordit.co/5SjTh1JFO1.gif)
