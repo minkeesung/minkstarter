@@ -19,3 +19,9 @@ Minkstarter was modeled after Kickstarter application. It is a single-page web a
 
 ![Minkstarter carousel](https://github.com/minkeesung/minkstarter/blob/master/docs/images/carousel.png)
 ![Minkstarter project index](https://github.com/minkeesung/minkstarter/blob/master/docs/images/project_index.png)
+
+### Project Search
+
+Users can use a live search based on matching titles, descriptions, details or projects
+
+![gif](http://g.recordit.co/JpgcCKxfVx.gif)
