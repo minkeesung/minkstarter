@@ -17,7 +17,7 @@ class Api::SessionsController < ApplicationController
 
   def destroy
     @user = User.find_by(session_token: params[:user][:session_token])
-
+    
     if @user
       @user.reset_token
       render json: {}
